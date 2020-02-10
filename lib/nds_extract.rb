@@ -41,7 +41,7 @@ def total_gross(source)
     total_sum += gross_for_director(director_index)
     director_index += 1
   end 
-  pp to
+  pp total_sum
 end
 
 
